@@ -1,0 +1,8 @@
+.counter {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  background-color: goldenrod;
+  width: 20rem;
+  height: 4rem;
+}
